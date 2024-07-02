@@ -1,0 +1,15 @@
+.footer__column-link {
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: normal;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 10px;
+    transition: 0.7s ease-out;
+}
+
+.footer__column-link:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(230, 230, 230);
+    border-radius: 15%;
+}

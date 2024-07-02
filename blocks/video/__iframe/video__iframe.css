@@ -1,0 +1,16 @@
+.video__iframe {
+    width: 515px;
+    height:316px;
+    border: none;
+    padding: 0;
+    transition: 0.7s ease-in-out;
+}
+
+.video__iframe:not(:last-child){
+    margin-right: 30px;
+}
+
+.video__iframe:hover {
+    transform: scale(1.02);
+    overflow: hidden;
+}

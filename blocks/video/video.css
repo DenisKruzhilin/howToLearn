@@ -1,0 +1,7 @@
+.video {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+    background-image: linear-gradient(to top, #f2f2f2 0px 50px, #fff 50px 100%);
+}
